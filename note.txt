@@ -1,0 +1,9 @@
+1. Clone repository
+2. Enter "Composer Install"
+3. Copy and Paste Example env, change name to ".env"
+4.  Enter "php artisan key:generate" 
+5. Create database "library-laravel" 
+6. Import sql file to database
+
+Note:
+1. If you want to change database name, you can change in env - DB-database
