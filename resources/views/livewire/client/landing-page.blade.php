@@ -9,8 +9,8 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-7 col-md-7">
                                     <div class="title-heading position-relative mt-4" style="z-index: 1;">
-                                        <h1 class="heading mb-3">Enjoy Better Holidays With Landrick Resort</h1>
-                                        <p class="para-desc">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap v5 html page.</p>
+                                        <h1 class="heading mb-3">Explore the World of Knowledge with Us</h1>
+                                        <p class="para-desc">At our online library, we're on a mission to make the literary universe accessible to you. From timeless classics to contemporary gems, explore a vast repository of books that cater to every taste and curiosity.</p>
                                         <div class="mt-4 pt-2">
                                             <a href="#!" data-type="youtube" data-id="yba7hPeTSjk" class="btn btn-icon btn-pills btn-primary lightbox"><i data-feather="video" class="icons"></i></a><span class="fw-bold text-uppercase small align-middle ms-2">Watch Now</span>
                                         </div>
