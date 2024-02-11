@@ -91,28 +91,26 @@
                             <img src="{{ asset('assets/logo.svg') }}" height="32" alt="">
                             LibraSync
                         </a>
-                        <p class="mt-4 para-desc mx-auto">Start working with Landrick that can provide everything you
-                            need to generate awareness, drive traffic, connect.</p>
                         <ul class="list-unstyled social-icon foot-social-icon mb-0 mt-4">
-                            <li class="list-inline-item mb-0"><a href="https://1.envato.market/landrick" target="_blank"
+                            <li class="list-inline-item mb-0"><a href="#" target="_blank"
                                     class="rounded"><i class="uil uil-shopping-cart align-middle"
                                         title="Buy Now"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="https://dribbble.com/shreethemes" target="_blank"
+                            <li class="list-inline-item mb-0"><a href="#" target="_blank"
                                     class="rounded"><i class="uil uil-dribbble align-middle" title="dribbble"></i></a>
                             </li>
-                            <li class="list-inline-item mb-0"><a href="https://www.behance.net/shreethemes"
+                            <li class="list-inline-item mb-0"><a href="#"
                                     target="_blank" class="rounded"><i class="uil uil-behance align-middle"
                                         title="behance"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="https://www.facebook.com/shreethemes"
+                            <li class="list-inline-item mb-0"><a href="#"
                                     target="_blank" class="rounded"><i class="uil uil-facebook-f align-middle"
                                         title="facebook"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="https://www.instagram.com/shreethemes/"
+                            <li class="list-inline-item mb-0"><a href="#"
                                     target="_blank" class="rounded"><i class="uil uil-instagram align-middle"
                                         title="instagram"></i></a></li>
-                            <li class="list-inline-item mb-0"><a href="https://twitter.com/shreethemes" target="_blank"
+                            <li class="list-inline-item mb-0"><a href="#" target="_blank"
                                     class="rounded"><i class="uil uil-twitter align-middle" title="twitter"></i></a>
                             </li>
-                            <li class="list-inline-item mb-0"><a href="mailto:support@shreethemes.in" class="rounded"><i
+                            <li class="list-inline-item mb-0"><a href="#" class="rounded"><i
                                         class="uil uil-envelope align-middle" title="email"></i></a></li>
                         </ul>
                         <!--end icon-->
@@ -132,7 +130,7 @@
                             <p class="mb-0">© <script>
                                     document.write(new Date().getFullYear())
                                 </script> Landrick. Design with <i class="mdi mdi-heart text-danger"></i> by <a
-                                    href="https://shreethemes.in/" target="_blank" class="text-reset">Shreethemes</a>.
+                                    href="https://github.com/michaeldavidvinc1" target="_blank" class="text-reset">MixChell</a>.
                             </p>
                         </div>
                     </div>
